@@ -4,4 +4,4 @@ networkx
 scikit-learn
 fastapi
 joblib
-
+uvicorn
